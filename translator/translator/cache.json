@@ -1,0 +1,2087 @@
+{
+  "undefined-en-Manage Fields": {
+    "text": "Manage Fields",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Ajouter un champ": {
+    "text": "Add a field",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet d'ajouter un champ à l'embed": {
+    "text": "Allows you to add a field to the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Supprimer un champ": {
+    "text": "Delete a field",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de supprimer un champ de l'embed": {
+    "text": "Allows you to delete a field from the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Send the embed": {
+    "text": "Send the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Save the embed": {
+    "text": "Save the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Copy an embed": {
+    "text": "Copy an embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Refaire votre choix": {
+    "text": "Redo your choice",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Add a button": {
+    "text": "Add a button",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Saved embed": {
+    "text": "Saved embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What do you want to set as **color** ?": {
+    "text": "What do you want to set as **color** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-You must send a **color** or a **hexadecimal**": {
+    "text": "You must send a **color** or a **hexadecimal**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-Voici le top 10 ": {
+    "text": "Here are the top 10",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-Voici le top 10 inviteurs ": {
+    "text": "Here are the top 10 invitees",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "Voici le top 10 [inventeurs]",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-Voici le top 10  ": {
+    "text": "Here are the top 10",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Oui": {
+    "text": "Oui",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Non": {
+    "text": "Non",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Salon vocal": {
+    "text": "Salon vocal",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Aucun": {
+    "text": "None",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Nom du salon": {
+    "text": "Room name",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Limite d'utilisateurs": {
+    "text": "User limit",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-<:mute:1088858547791601706> Muet par défaut": {
+    "text": "<:mute:1088858547791601706> Mute by default",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-<:casque:1088858333647216812> Sourd par défaut": {
+    "text": "<:headset:1088858333647216812> Default deaf",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-・Variables": {
+    "text": "・Variables",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-```[username] - Pseudo de l'utilisateur\n[userid] - Identifiant de l'utilisateur```": {
+    "text": "```[username] - Username\n[userid] - User ID```",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "```[username] - Pseudo de l&#39;utilisateur [[user id]] - Identifiant de l&#39;utilisateur```",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-・Permissions accordées": {
+    "text": "・Permissions Granted",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Vocal Blacklist un utilisateur: false\nVocal Whitelist un utilisateur: false\nDéconnecter un utilisateur: false\nRénommer le salon: false\nRendre muet sourd un utilisateur: false\nChanger la limite d'utilisateurs: true": {
+    "text": "Vocal Blacklist a user: false\nVocal Whitelist a user: false\nDisconnect a user: false\nRename room: false\nMute deaf a user: false\nChange user limit: true",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Manage Join To Create": {
+    "text": "Manage Join To Create",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier le nom du salon": {
+    "text": "Change room name",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier le nom du salon": {
+    "text": "Allows you to change the name of the room",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier la limite d'utilisateurs": {
+    "text": "Change user limit",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier la limite d'utilisateurs": {
+    "text": "Allows you to change the user limit",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier muet par défaut": {
+    "text": "Change default mute",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier le muet par défaut": {
+    "text": "Allows you to change the default mute",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier le sourd par défaut": {
+    "text": "Change default deaf",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier le sourd par défaut": {
+    "text": "Allows you to change the default deaf",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Gérer les permissions": {
+    "text": "Manage permissions",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Blacklist un utilisateur": {
+    "text": "Blacklist a user",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Accorde la permission de blacklist un utilisateur": {
+    "text": "Grants permission to blacklist a user",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Whitelist un utilisateur": {
+    "text": "Whitelist a user",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Accorde la permission de whitelist un utilisateur": {
+    "text": "Grants permission to whitelist a user",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Déconnecter un utilisateur": {
+    "text": "Disconnect a user",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Accorde la permission de déconnecter un utilisateur": {
+    "text": "Grants permission to log out a user",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Changer le nom du salon": {
+    "text": "Change room name",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Accorde la permission de changer le nom du salon": {
+    "text": "Grants permission to change channel name",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Rendre muet ou sourd un utilisateur": {
+    "text": "Mute or deaf a user",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Accorde la permission de rendre muet ou sourd un utilisateur": {
+    "text": "Grants permission to mute or deaf a user",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Changer la limite d'utilisateur": {
+    "text": "Change user limit",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Accorde la permission de changer la limite d'utilisateurs": {
+    "text": "Grants permission to change user limit",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Channel": {
+    "text": "Channel",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Vocal Blacklist un utilisateur: false\nVocal Whitelist un utilisateur: false\nDéconnecter un utilisateur: true\nRénommer le salon: false\nRendre muet sourd un utilisateur: false\nChanger la limite d'utilisateurs: true": {
+    "text": "Vocal Blacklist a user: false\nVocal Whitelist a user: false\nDisconnect a user: true\nRename room: false\nMute deaf a user: false\nChange user limit: true",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Personnes invités": {
+    "text": "People invited",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Personnes qui ont quitté": {
+    "text": "People who left",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Invitations": {
+    "text": "Invitations",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Vous avez invité **{invites}** personnes sur ce serveur !": {
+    "text": "You have invited **{invites}** people to this server!",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-<:valid:1089266253685854299> Valid invitation(s) ": {
+    "text": "<:valid:1089266253685854299> Valid invitation(s)",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-<:mysterious:1089266831870660689> Invitation(s) invalide(s) ": {
+    "text": "<:mysterious:1089266831870660689> Invitation(s) invalide(s)",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:mysterious:1089266831870660689&gt; [Invitations]) [invalides])",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-<:no:1092065042649849926> Invité(s) parti(s)": {
+    "text": "<:no:1092065042649849926> Guest(s) gone",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:no:1092065042649849926&gt; [Invités]) [partis])",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-Choisissez un membre": {
+    "text": "Choose a member",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Aucune transaction récente": {
+    "text": "No recent transactions",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en- Solde disponible:": {
+    "text": "Balance available:",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Dernière transactions": {
+    "text": "Last transactions",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-Configuration de bonus invites": {
+    "text": "Configuration de bonus invites",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-undefinedMembre: ** ** \n<:number:1092902408348250232> Nombre d'invites: ** ** ": {
+    "text": "undefinedMembre: ** ** \n<:number:1092902408348250232> Nombre d'invites: ** **",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "[undefined Member]: ** ** &lt;:number:1092902408348250232&gt; Nombre d&#39;invites: ** **",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831>**__Membre:__** ** ** \n<:number:1092902408348250232> **__Nombre d'invites__:** ** ** ": {
+    "text": "<:persons:1089260062993817831>**__Member:__** ** **\n<:number:1092902408348250232> **__Number of prompts__:** ** **",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:persons:1089260062993817831&gt;**[__ Membre]:__** ** ** &lt;:number:1092902408348250232&gt; **[_ Nombre] [d&#39;invités __]:** ** **",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membre:__** ** ** \n<:number:1092902408348250232> **__Nombre d'invites__:** ** ** ": {
+    "text": "<:persons:1089260062993817831> **__Member:__** ** **\n<:number:1092902408348250232> **__Number of prompts__:** ** **",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:persons:1089260062993817831&gt; **[__ Membre]:__** ** ** &lt;:number:1092902408348250232&gt; **[_ Nombre] [d&#39;invités __]:** ** **",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Chargement...": {
+    "text": "Loading...",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Utilisateur(s) Whitelist": {
+    "text": "Whitelist User(s)",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membre:__** ** ** \n<:number:1092902408348250232> **__Nombre d'invitations__:** ** ** ": {
+    "text": "<:persons:1089260062993817831> **__Member:__** ** **\n<:number:1092902408348250232> **__Number of invitations__:** ** **",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:persons:1089260062993817831&gt; **[__ Membre]:__** ** ** &lt;:number:1092902408348250232&gt; **[_ Nombre] [d&#39;invitations __]:** ** **",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:number:1092902408348250232> **__Nombre d'invitations__:** ** ** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:number:1092902408348250232> **__Number of invitations__:** ** **",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:persons:1089260062993817831&gt; **[__ Membres]:__** &lt;:number:1092902408348250232&gt; **[_ Nombre] [d&#39;invitations __]:** ** **",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-Veuillez entrer le nombre d'invitations à retirer": {
+    "text": "Please enter the number of invitations to withdraw",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:time:1088408381569630259> Le temps de **1m** s'est écoulé !": {
+    "text": "<:time:1088408381569630259> **1m** time has passed!",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-Veuillez entrer le nombre d'invitations à ajouter": {
+    "text": "Please enter the number of invitations to add",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:number:1092902408348250232> **__Nombre d'invitations__:** **15** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:number:1092902408348250232> **__Number of invites__:** **15**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:persons:1089260062993817831&gt; **[__ Membres]:__** &lt;:number:1092902408348250232&gt; **[_ Nombre] [d&#39;invitations __]:** **15**",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:number:1092902408348250232> **__Nombre d'invitations__:** **16** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:number:1092902408348250232> **__Number of invitations__:** **16**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:persons:1089260062993817831&gt; **[__ Membres]:__** &lt;:number:1092902408348250232&gt; **[_ Nombre] [d&#39;invitations _]:** **16**",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:number:1092902408348250232> **__Nombre d'invitations à ajoutés__:** **0****__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:number:1092902408348250232> **__Number of invitations to add__:** **0****__Number of invitations to remove__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:persons:1089260062993817831&gt; **[__ Membres]:__** &lt;:number:1092902408348250232&gt; **[_ Nombre] d&#39;invitations à [ajoutés __]:** **0****__Nombre d&#39;invitations à retirer__:** **0**",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:number:1092902408348250232> **__Nombre d'invitations à ajoutés__:** **0**\n*__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:number:1092902408348250232> **__Number of invitations added__:** **0**\n*__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "&lt;:persons:1089260062993817831&gt; **[__ Membres]:__** &lt;:number:1092902408348250232&gt; **[_ Nombre] d&#39;invitations à [ajoutés __]:** **0** *__Nombre d&#39;invitations à retirer__:** **0**",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **16**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:more:1087830920188411974> **__Number of invitations added__:** **16**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **16**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **15** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:more:1087830920188411974> **__Number of invitations added__:** **16**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **15**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@undefined>\n<@undefined>\n<@undefined> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@undefined>\n<@undefined>\n<@undefined>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@915614830973567026>\n<@691650439195787305>\n<@672173129673474078> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@915614830973567026>\n<@691650439195787305>\n<@672173129673474078>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@915614830973567026>\n<@691650439195787305>\n<@672173129673474078>\n<@416358583220043796>\n<@736996721455792158>\n<@691650439195787305>\n<@672173129673474078> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@915614830973567026>\n<@691650439195787305>\n<@672173129673474078>\n<@416358583220043796>\n<@736996721455792158>\n<@691650439195787305>\n<@672173129673474078>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@915614830973567026>\n<@691650439195787305>\n<@672173129673474078>\n<@416358583220043796>\n<@736996721455792158>\n<@691650439195787305>\n<@672173129673474078>\n<@416358583220043796>\n<@736996721455792158> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@768566147695509511>\n<@382936822860218370>\n<@1055792649744953345>\n<@1087776624608542840>\n<@276060004262477825>\n<@416358583220043796>\n<@736996721455792158>\n<@833149700692508703>\n<@915614830973567026>\n<@691650439195787305>\n<@672173129673474078>\n<@416358583220043796>\n<@736996721455792158>\n<@691650439195787305>\n<@672173129673474078>\n<@416358583220043796>\n<@736996721455792158>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511>\n<@382936822860218370> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<@382936822860218370>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **16**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<:more:1087830920188411974> **__Number of invitations added__:** **16**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **16**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **15** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<:more:1087830920188411974> **__Number of invitations added__:** **16**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **15**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **1**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<:more:1087830920188411974> **__Number of invitations added__:** **1**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **2**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<:more:1087830920188411974> **__Number of invitations added__:** **2**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **15**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<:more:1087830920188411974> **__Number of invitations added__:** **15**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511>\n<@382936822860218370> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **qs**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<@382936822860218370>\n<:more:1087830920188411974> **__Number of invitations added__:** **qs**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **cc**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:more:1087830920188411974> **__Number of invitations added__:** **cc**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-Veuillez entrer un nombre valide": {
+    "text": "Please enter a valid number",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **1** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **1**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**  <@768566147695509511> \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **0**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **1** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__** <@768566147695509511>\n<:more:1087830920188411974> **__Number of invitations added__:** **0**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **1**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-undefined-<:persons:1089260062993817831> **__Membres:__**   \n<:plus:1087830920188411974> **__Nombre d'invitations à ajoutés__:** **1**\n<:minus:1087833497185558598>**__Nombre d'invitations à retirer__:** **0** ": {
+    "text": "<:persons:1089260062993817831> **__Members:__**\n<:more:1087830920188411974> **__Number of invitations added__:** **1**\n<:minus:1087833497185558598>**__Number of invitations to withdraw__:** **0**",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Manage Embed": {
+    "text": "Manage Embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier le titre ": {
+    "text": "Edit title",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier le titre de l'embed": {
+    "text": "Allows you to modify the title of the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier la description ": {
+    "text": "Edit Description",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier la description de l'embed": {
+    "text": "Allows you to modify the description of the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier le footer ": {
+    "text": "Edit footer",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier le footer de l'embed": {
+    "text": "Allows you to modify the footer of the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier l'auteur ": {
+    "text": "Change author",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier l'auteur de l'embed": {
+    "text": "Allows you to modify the author of the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier le temps ": {
+    "text": "Modify time",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier le timestamp de l'embed": {
+    "text": "Allows you to modify the timestamp of the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier la couleur ": {
+    "text": "Change color",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier la couleur de l'embed": {
+    "text": "Allows you to change the color of the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Modifier le thumbnail ": {
+    "text": "Modify the thumbnail",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "nso"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier le thumbnail de l'embed": {
+    "text": "Allows you to modify the thumbnail of the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Edit the image ": {
+    "text": "Edit the image",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Permet de modifier l'image de l'embed": {
+    "text": "Allows you to modify the image of the embed",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What do you want to set as **title** ?": {
+    "text": "What do you want to set as **title** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What do you want to set as **footer** ?": {
+    "text": "What do you want to set as **footer** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-J'ai supprimé 99 messages": {
+    "text": "I deleted 99 posts",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What do you want to set as **description** ?": {
+    "text": "What do you want to set as **description** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Do you want to set a **footer icon** ?": {
+    "text": "Do you want to set a **footer icon** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What do you want to set as **author** ?": {
+    "text": "What do you want to set as **author** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What do you want to set as **image** ?": {
+    "text": "What do you want to set as **image** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Your embed has been **saved** !": {
+    "text": "Your embed has been **saved** !",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What is the link you want to add to the button ?": {
+    "text": "What is the link you want to add to the button ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What is the label of the button ?": {
+    "text": "What is the label of the button ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Here is your preview": {
+    "text": "Here is your preview",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Use": {
+    "text": "Use",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Delete": {
+    "text": "Delete",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Select a channel": {
+    "text": "Select a channel",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Cancel": {
+    "text": "Cancel",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Vous n'avez invité personne": {
+    "text": "You didn't invite anyone",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-Personne a leave": {
+    "text": "Person has leave",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "Personne [à] leave",
+        "didYouMean": true
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-J'ai supprimé 1 messages": {
+    "text": "I deleted 1 post",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-a été sauvegardé en tant que la nouvelle monnaie !": {
+    "text": "has been saved as the new currency!",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What do you want to set as **name** ?": {
+    "text": "What do you want to set as **name** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-What do you want to set as **value** ?": {
+    "text": "What do you want to set as **value** ?",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "en"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  },
+  "undefined-en-J'ai supprimé 10 messages": {
+    "text": "I deleted 10 posts",
+    "from": {
+      "language": {
+        "didYouMean": false,
+        "iso": "fr"
+      },
+      "text": {
+        "autoCorrected": false,
+        "value": "",
+        "didYouMean": false
+      }
+    },
+    "raw": ""
+  }
+}

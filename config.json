@@ -1,0 +1,7 @@
+{
+    "token" : "Put-Token-Here",
+    "defaultPrefix" : "Prefix",
+    "defaultColor" : "#313338",
+    "mongooseConnectionString" : "MongoUrl",
+    "owners" : ["Owner-Id"]
+}  

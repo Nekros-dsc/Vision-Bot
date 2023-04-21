@@ -1,0 +1,1 @@
+module.exports.translator = require('./translator/index');
